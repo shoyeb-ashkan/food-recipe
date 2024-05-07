@@ -27,7 +27,7 @@ function App() {
       await getRecipes({ query, health });
     };
     getFoodRecipe();
-  }, [query, health]);
+  }, [query, health, getRecipes]);
 
   if (isLoading) {
     return <Spinner />;
