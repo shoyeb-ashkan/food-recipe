@@ -1,0 +1,136 @@
+  [  {
+      "lable": "Alcohol-Cocktail"
+      , "value": "alcohol-cocktail"
+    },
+    {
+      "lable": "Alcohol-Free"
+      , "value": "alcohol-free"
+    },
+    {
+      "lable": "Celery-Free"
+      , "value": "celery-free"
+    },
+    {
+      "lable": "Crustcean-Free"
+      , "value": "crustacean-free"
+    },
+    {
+      "lable": "Dairy-Free"
+      , "value": "dairy-free"
+    },
+    {
+      "lable": "DASH"
+      , "value": "DASH"
+    },
+    {
+      "lable": "Egg-Free"
+      , "value": "egg-free"
+    },
+    {
+      "lable": "Fish-Free"
+      , "value": "fish-free"
+    },
+    {
+      "lable": "FODMAP-Free"
+      , "value": "fodmap-free"
+    },
+    {
+      "lable": "Gluten-Free"
+      , "value": "gluten-free"
+    },
+    {
+      "lable": "Immuno-Supportive"
+      , "value": "immuno-supportive"
+    },
+    {
+      "lable": "Keto-Friendly"
+      , "value": "keto-friendly"
+    },
+    {
+      "lable": "Kidney-Friendly"
+      , "value": "kidney-friendly"
+    },
+    {
+      "lable": "Kosher"
+      , "value": "kosher"
+    },
+    {
+      "lable": "Low Potassium"
+      , "value": "low-potassium"
+    },
+    {
+      "lable": "Low Sugar"
+      , "value": "low-sugar"
+    },
+    {
+      "lable": "Lupine-Free"
+      , "value": "lupine-free"
+    },
+    {
+      "lable": "Mediterranean"
+      , "value": "Mediterranean"
+    },
+    {
+      "lable": "Mollusk-Free"
+      , "value": "mollusk-free"
+    },
+    {
+      "lable": "Mustard-Free"
+      , "value": "mustard-free"
+    },
+    {
+      "lable": "Paleo"
+      , "value": "paleo"
+    },
+    {
+      "lable": "Peanut-Free"
+      , "value": "peanut-free"
+    },
+    {
+      "lable": "Pescatarian"
+      , "value": "pecatarian"
+    },
+    {
+      "lable": "Pork-Free"
+      , "value": "pork-free"
+    },
+    {
+      "lable": "Red-Meat-Free"
+      , "value": "red-meat-free"
+    },
+    {
+      "lable": "Sesame-Free"
+      , "value": "sesame-free"
+    },
+    {
+      "lable": "Shellfish-Free"
+      , "value": "shellfish-free"
+    },
+    {
+      "lable": "Soy-Free"
+      , "value": "soy-free"
+    },
+    {
+      "lable": "Sugar-Conscious"
+      , "value": "sugar-conscious"
+    },
+    {
+      "lable": "Sulfite-Free"
+      , "value": "sulfite-free"
+    },
+    {
+      "lable": "Tree-Nut-Free"
+      , "value": "tree-nut-free"
+    },
+    {
+      "lable": "Vegan"
+      , "value": "vegan"
+    },
+    {
+      "lable": "Vegetarian"
+      , "value": "vegetarian"
+    },
+    {
+      "lable": "Wheat-Free"
+      , "value": "wheat-free"
+    }]
