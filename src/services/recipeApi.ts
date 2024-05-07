@@ -16,6 +16,5 @@ export const recipeApi = createApi({
   }),
 });
 
-// console.log(`https://api.edamam.com/search?q=bread&app_id=1975b7ae&app_key=374309c35ce93fcf917714e449092afe&from=0&to=3&calories=591-722&health=vegan`)
 
 export const { useGetRecipesMutation } = recipeApi;
